@@ -93,9 +93,10 @@ GeoLuminamics exists at the intersection of high-tier computation and meditative
 
 [![PREMIUM SUPPORT](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/plantacerium)
 
-⭐ **STAR THE US ON GITHUB** ⭐
+⭐ **STAR US ON GITHUB** ⭐
 
 &nbsp;
 
 </div>
+
 
